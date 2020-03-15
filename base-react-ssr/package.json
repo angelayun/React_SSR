@@ -1,0 +1,28 @@
+{
+  "name": "React_SSR",
+  "version": "0.0.1",
+  "description": "深入学习SSR原理",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-react": "^7.8.3",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelayun/React_SSR.git"
+  },
+  "keywords": [],
+  "author": "liyunhua <liyunhua_angela@163.com> (http://github.com/angelyayun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelayun/React_SSR/issues"
+  },
+  "homepage": "https://github.com/angelayun/React_SSR#readme"
+}
